@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-STTwitterDEMO/Pods-STTwitterDEMO-frameworks.sh
+${BUILT_PRODUCTS_DIR}/LBTATools/LBTATools.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/STTwitter/STTwitter.framework
